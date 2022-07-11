@@ -22,6 +22,7 @@ h2 {
     color: #04c1f4;
     line-height: 45px;
     text-transform: uppercase;
+    font-size: 48px;
 }
 
 p {
@@ -93,6 +94,11 @@ body {
     margin: 10px 10px;
     padding: 10px;
     font-size: 125%;
+    font-family: Lato, sans-serif;
+}
+
+#book-intro h2 {
+    font-family: Oswald, sans-serif;
 }
 
 #book-intro li {
@@ -112,7 +118,10 @@ body {
 
 #praise h2 {
     color: #fff;
-    text-align: center;
+    text-align: left;
+    font-family: Oswald, sans-serif;
+    padding-top: 15px;
+    padding-left: 15px;
 }
 
 #praise-quotes div {
@@ -129,24 +138,31 @@ body {
 
 .quote-content {
     color: #fff;
+    line-height: 25px;
+    width: 75%;
+    margin-left: 25px;
 }
 
 .quote-author {
     color: #fff;
-    text-align: right;
-    text-decoration: underline;
+    text-align: left;
+    margin-left: 25px;
 }
 
-/* forword */
+/* foreword */
 
-#forward-section {
+#foreword-section {
     margin: 15px;
 }
 
-#forword-quote {
+#foreword h2 {
+    text-align: right;
+    font-family: Oswald, sans-serif;
+}
+
+#foreword p {
     width: 95%;
     height: 100%;
-    text-align: center;
-    margin-top: 5px;
-    padding: 15px;
+    text-align: left;
+    color: #3a3a3a;
 }
