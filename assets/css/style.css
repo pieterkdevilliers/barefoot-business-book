@@ -69,7 +69,7 @@ body {
 }
 
 #book-cover {
-    background: url("../images/barefoot-business-3d-cover.jpg") no-repeat;
+    background: url("../images/small-barefoot-business-3d-cover.jpg") no-repeat;
     background-size: contain;
     float: left;
     margin: 10px;
