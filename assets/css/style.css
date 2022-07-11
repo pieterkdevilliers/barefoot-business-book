@@ -109,3 +109,18 @@ body {
     background-color: #04c1f4;
     height: 600px;
 }
+
+#praise h2 {
+    color: #fff;
+    text-align: center;
+}
+
+#praise-quotes div {
+    width: 32%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
