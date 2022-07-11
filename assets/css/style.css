@@ -23,6 +23,11 @@ h1 {
     letter-spacing: 2px;
     color: #3a3a3a;
 }
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 #logo {
     float: left;
     margin-left: 30px;
@@ -39,3 +44,14 @@ h1 {
     line-height: 75px;
 }
 
+/* body */
+
+body {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+
+#image-intro {
+    padding-top: 30px;
+}
