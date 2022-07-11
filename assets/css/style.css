@@ -16,6 +16,13 @@ h1 {
     color: #04c1f4;
 }
 
+h2 {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    letter-spacing: 2px;
+    color: #3a3a3a;
+}
+
 #menu {
     font-family: Lato, sans-serif;
     font-weight: 300;
@@ -44,7 +51,7 @@ h1 {
     line-height: 75px;
 }
 
-/* body */
+/* Body */
 
 body {
     font-family: Lato, sans-serif;
@@ -52,6 +59,37 @@ body {
     color: #3a3a3a;
 }
 
+/* 3D Book and Intro */
+
 #image-intro {
-    padding-top: 30px;
+    padding-top: 10px;
+    clear: both;
+    height: 600px;
+}
+
+#book-cover {
+    background: url("../images/barefoot-business-3d-cover.jpg") no-repeat;
+    background-size: contain;
+    float: left;
+    margin: 10px;
+    width: 45%;
+    height: 600px;
+    border: 1px solid red;
+    background-position: right;
+}
+
+#book-intro {
+    float: right;
+    text-align: left;
+    width: 45%;
+    height: 600px;
+    margin: 10px;
+    border: 1px solid red;
+    font-size: 125%;
+}
+
+/* Praise for Barefoot Business*/
+
+#praise {
+    clear: both;
 }
