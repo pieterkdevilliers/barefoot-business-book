@@ -18,7 +18,14 @@ h1 {
 
 h2 {
     font-family: Lato, sans-serif;
-    font-weight: 500;
+    letter-spacing: 2px;
+    color: #04c1f4;
+    line-height: 45px;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: Lato, sans-serif;
     letter-spacing: 2px;
     color: #3a3a3a;
     line-height: 45px;
@@ -63,18 +70,18 @@ body {
 /* 3D Book and Intro */
 
 #image-intro {
-    padding-top: 10px;
+    padding-top: 2px;
     clear: both;
-    height: 600px;
+    height: 800px;
 }
 
 #book-cover {
     background: url("../images/small-barefoot-business-3d-cover.jpg") no-repeat;
     background-size: contain;
     float: left;
-    margin: 10px;
+    margin: 5px;
     width: 45%;
-    height: 600px;
+    height: 95%;
     background-position: right;
 }
 
@@ -84,11 +91,20 @@ body {
     width: 45%;
     height: 600px;
     margin: 10px;
+    padding: 10px;
     font-size: 125%;
+}
+
+#book-intro li {
+    margin-left: 45px;
+    line-height: 45px;
+    font-size: 85%;
 }
 
 /* Praise for Barefoot Business*/
 
 #praise {
     clear: both;
+    background-color: #04c1f4;
+    height: 600px;
 }
