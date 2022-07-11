@@ -107,7 +107,7 @@ body {
 #praise {
     clear: both;
     background-color: #04c1f4;
-    height: 600px;
+    height: 300px;
 }
 
 #praise h2 {
@@ -127,14 +127,6 @@ body {
 
 /* Quotes */
 
-#main-praise-quote {
-    width: 95%;
-    height: 100%;
-    text-align: center;
-    margin-top: 5px;
-    padding: 15px;
-}
-
 .quote-content {
     color: #fff;
 }
@@ -143,4 +135,18 @@ body {
     color: #fff;
     text-align: right;
     text-decoration: underline;
+}
+
+/* forword */
+
+#forward-section {
+    margin: 15px;
+}
+
+#forword-quote {
+    width: 95%;
+    height: 100%;
+    text-align: center;
+    margin-top: 5px;
+    padding: 15px;
 }
