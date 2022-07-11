@@ -116,13 +116,13 @@ body {
 }
 
 #praise-quotes div {
-    width: 32%;
+    width: 30%;
     height: 100%;
     float: left;
-    text-align: center;
+    text-align: justified;
     margin-top: 5px;
     margin-left: 5px;
-    border: 1px solid black;
+    padding: 15px;
 }
 
 /* Quotes */
