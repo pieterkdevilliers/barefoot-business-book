@@ -116,7 +116,7 @@ body {
 }
 
 #praise-quotes div {
-    width: 30%;
+    width: 48%;
     height: 100%;
     float: left;
     text-align: justified;
@@ -127,6 +127,14 @@ body {
 
 /* Quotes */
 
+#main-praise-quote {
+    width: 95%;
+    height: 100%;
+    text-align: center;
+    margin-top: 5px;
+    padding: 15px;
+}
+
 .quote-content {
     color: #fff;
 }
@@ -134,4 +142,5 @@ body {
 .quote-author {
     color: #fff;
     text-align: right;
+    text-decoration: underline;
 }
