@@ -124,3 +124,14 @@ body {
     margin-left: 5px;
     border: 1px solid black;
 }
+
+/* Quotes */
+
+.quote-content {
+    color: #fff;
+}
+
+.quote-author {
+    color: #fff;
+    text-align: right;
+}
