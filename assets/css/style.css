@@ -20,9 +20,9 @@ h2 {
     font-family: Lato, sans-serif;
     letter-spacing: 2px;
     color: #04c1f4;
-    line-height: 45px;
+    line-height: 35px;
     text-transform: uppercase;
-    font-size: 48px;
+    font-size: 40px;
 }
 
 p {
@@ -95,7 +95,7 @@ body {
     padding: 10px;
     font-size: 125%;
     font-family: Lato, sans-serif;
-    line-height: 30px;
+    line-height: 25px;
 }
 
 #book-intro h2 {
@@ -184,7 +184,7 @@ body {
     text-align: left;
     color: #3a3a3a;
     float: left;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 30px;
 }
 
@@ -193,7 +193,7 @@ body {
     text-align: left;
     color: #3a3a3a;
     float: right;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 30px;
 }
 
@@ -219,6 +219,14 @@ body {
     float: left;
 }
 
+#pieter-bio h2 {
+    color: #fff;
+    text-align: left;
+    font-family: Oswald, sans-serif;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
 #pieter-bio p {
     color: #fff;
     font-family: Lato, sans-serif;
@@ -240,12 +248,18 @@ body {
 
 #footer {
     clear: both;
+    margin: 15px;
 }
 
-#pieter-bio h2 {
-    color: #fff;
-    text-align: left;
+#footer h2 {
+    color: #04c1f4;
+    text-align: right;
     font-family: Oswald, sans-serif;
     padding-bottom: 15px;
     padding-left: 15px;
+}
+
+#footer-form {
+    height: 150px;
+    text-align: center;
 }
