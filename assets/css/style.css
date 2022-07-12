@@ -98,6 +98,11 @@ body {
     line-height: 25px;
 }
 
+#book-intro p {
+    margin: 5px 5px;
+    line-height: 25px;
+}
+
 #book-intro h2 {
     font-family: Oswald, sans-serif;
     padding-bottom: 15px;
@@ -185,7 +190,8 @@ body {
     color: #3a3a3a;
     float: left;
     font-weight: 300;
-    line-height: 30px;
+    margin: 5px 5px;
+    line-height: 25px;
 }
 
 #foreword-right p {
@@ -194,11 +200,12 @@ body {
     color: #3a3a3a;
     float: right;
     font-weight: 300;
-    line-height: 30px;
+    margin: 5px 5px;
+    line-height: 25px;
 }
 
-.forward-author {
-    font-weight: 300;
+#forward-author {
+    font-weight: 400;
 }
 
 /* Bio Section */
