@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;500&family=Oswald:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -95,10 +95,12 @@ body {
     padding: 10px;
     font-size: 125%;
     font-family: Lato, sans-serif;
+    line-height: 30px;
 }
 
 #book-intro h2 {
     font-family: Oswald, sans-serif;
+    padding-bottom: 15px;
 }
 
 #book-intro li {
@@ -106,6 +108,7 @@ body {
     line-height: 45px;
     font-size: 85%;
     font-family: Lato, sans-serif;
+    font-weight: 400;
 }
 
 /* Praise for Barefoot Business*/
@@ -141,6 +144,7 @@ body {
     line-height: 25px;
     width: 75%;
     margin-left: 25px;
+    font-weight: 400;
 }
 
 .quote-author {
@@ -153,11 +157,11 @@ body {
 
 #foreword-section {
     margin: 15px;
-    height: 1150px;
+    height: 850px;
 }
 
 #foreword-left, #foreword-right {
-    width: 45%;
+    width: 49%;
     height: 95%;
 }
 
@@ -172,6 +176,7 @@ body {
 #foreword-header h2 {
     text-align: right;
     font-family: Oswald, sans-serif;
+    padding-bottom: 15px;
 }
 
 #foreword-left p {
@@ -179,6 +184,8 @@ body {
     text-align: left;
     color: #3a3a3a;
     float: left;
+    font-weight: 400;
+    line-height: 30px;
 }
 
 #foreword-right p {
@@ -186,6 +193,12 @@ body {
     text-align: left;
     color: #3a3a3a;
     float: right;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.forward-author {
+    font-weight: 300;
 }
 
 /* Bio Section */
@@ -193,6 +206,7 @@ body {
 #bio-section {
     background-color: #04c1f4;
     height: 300px;
+    padding: 15px;
 }
 
 #bio-section div {
@@ -203,6 +217,13 @@ body {
 
 #pieter-bio {
     float: left;
+}
+
+#pieter-bio p {
+    color: #fff;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 30px;
 }
 
 #pieter-photo   {
@@ -219,4 +240,12 @@ body {
 
 #footer {
     clear: both;
+}
+
+#pieter-bio h2 {
+    color: #fff;
+    text-align: left;
+    font-family: Oswald, sans-serif;
+    padding-bottom: 15px;
+    padding-left: 15px;
 }
