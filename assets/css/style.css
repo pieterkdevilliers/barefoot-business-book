@@ -153,18 +153,39 @@ body {
 
 #foreword-section {
     margin: 15px;
+    height: 1150px;
 }
 
-#foreword h2 {
+#foreword-left, #foreword-right {
+    width: 45%;
+    height: 95%;
+}
+
+#foreword-left {
+    float: left;
+}
+
+#foreword-right {
+    float: right;
+}
+
+#foreword-header h2 {
     text-align: right;
     font-family: Oswald, sans-serif;
 }
 
-#foreword p {
+#foreword-left p {
     width: 95%;
-    height: 100%;
     text-align: left;
     color: #3a3a3a;
+    float: left;
+}
+
+#foreword-right p {
+    width: 95%;
+    text-align: left;
+    color: #3a3a3a;
+    float: right;
 }
 
 /* Bio Section */
@@ -176,7 +197,6 @@ body {
 
 #bio-section div {
     height: 90%;
-    border: 1px solid black;
     width: 45%;
     margin: 5px;
 }
@@ -193,4 +213,10 @@ body {
     width: 45%;
     height: 95%;
     background-position: left;
+}
+
+/* footer */
+
+#footer {
+    clear: both;
 }
