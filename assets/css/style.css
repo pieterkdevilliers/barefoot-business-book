@@ -166,3 +166,31 @@ body {
     text-align: left;
     color: #3a3a3a;
 }
+
+/* Bio Section */
+
+#bio-section {
+    background-color: #04c1f4;
+    height: 300px;
+}
+
+#bio-section div {
+    height: 90%;
+    border: 1px solid black;
+    width: 45%;
+    margin: 5px;
+}
+
+#pieter-bio {
+    float: left;
+}
+
+#pieter-photo   {
+    float: right;
+    background: url("../images/FullSizeRenderCropped.jpeg") no-repeat;
+    background-size: contain;
+    margin: 5px;
+    width: 45%;
+    height: 95%;
+    background-position: left;
+}
