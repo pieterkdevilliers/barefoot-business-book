@@ -240,12 +240,10 @@ body {
 
 #pieter-photo   {
     float: right;
-    background: url("../images/FullSizeRenderCropped.jpeg") no-repeat;
-    background-size: contain;
-    margin: 5px;
-    width: 45%;
-    height: 95%;
-    background-position: left;
+}
+
+#bio-section img {
+    height: 300px;
 }
 
 /* footer */
