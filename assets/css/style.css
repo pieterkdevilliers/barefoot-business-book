@@ -283,6 +283,15 @@ body {
     padding-left: 15px;
 }
 
+#footer p {
+    color: #04c1f4;
+    text-align: center;
+    font-family: Oswald, sans-serif;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    font-size: 125%;
+}
+
 #footer-form {
     height: 50px;
     text-align: center;
