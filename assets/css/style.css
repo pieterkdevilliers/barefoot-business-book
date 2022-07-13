@@ -419,6 +419,10 @@ body {
 
 /* Podcast Covers */
 
+#podcast-covers {
+    margin: 9%;
+}
+
 #podcast-covers img {
     width: 250px;
     height: 250px;
