@@ -271,6 +271,7 @@ body {
 
 #footer {
     clear: both;
+    height: 300px;
     margin: 15px;
 }
 
