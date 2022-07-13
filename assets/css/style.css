@@ -42,6 +42,7 @@ p {
 
 #menu a:link {
     text-decoration: none;
+    color: #7a7a7a;
 }
 
 #menu a:hover {
@@ -50,7 +51,7 @@ p {
 
 #menu a:visited {
     text-decoration: none;
-    color: #3a3a3a;
+    color: #7a7a7a;
 }
 
 #menu a:active {
@@ -94,7 +95,6 @@ body {
     margin: 10px;
     width: 45%;
     height: 95%;
-    /* border: 1px solid black; */
 }
 
 #book-intro {
@@ -109,7 +109,6 @@ body {
     font-size: 125%;
     font-family: Lato, sans-serif;
     line-height: 25px;
-    /* border: 1px solid black; */
 }
 
 #book-intro p {
@@ -128,6 +127,7 @@ body {
     font-size: 85%;
     font-family: Lato, sans-serif;
     font-weight: 400;
+    color: #4a4a4a;
 }
 
 /* Praise for Barefoot Business*/
