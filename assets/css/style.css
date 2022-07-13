@@ -162,7 +162,7 @@ body {
     color: #fff;
     line-height: 25px;
     width: 75%;
-    margin-left: 25px;
+    margin-left: 85px;
     font-weight: 400;
 }
 
@@ -220,7 +220,7 @@ body {
     line-height: 25px;
 }
 
-#forward-author {
+#foreword-author p {
     font-weight: 400;
 }
 
