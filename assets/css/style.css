@@ -50,6 +50,7 @@ p {
 
 #menu a:visited {
     text-decoration: none;
+    color: #3a3a3a;
 }
 
 #menu a:active {
@@ -391,4 +392,9 @@ body {
 #podcast-covers img {
     width: 250px;
     height: 250px;
+}
+
+#podcast-covers img:hover {
+    width: 260px;
+    height: 260px;
 }
