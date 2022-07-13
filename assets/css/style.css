@@ -34,14 +34,26 @@ p {
 
 #menu {
     font-family: Lato, sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 110%;
     letter-spacing: 2px;
     color: #3a3a3a;
 }
 
+#menu a:link {
+    text-decoration: none;
+}
+
 #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
+}
+
+#menu a:visited {
+    text-decoration: none;
+}
+
+#menu a:active {
+    color: #04c1f4;
 }
 
 #logo {
