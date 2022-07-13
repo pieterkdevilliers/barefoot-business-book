@@ -180,16 +180,18 @@ body {
 }
 
 #foreword-left, #foreword-right {
-    width: 49%;
+    width: 45%;
     height: 95%;
 }
 
 #foreword-left {
     float: left;
+    margin-left: 85px;
 }
 
 #foreword-right {
     float: right;
+    margin-right: 85px;
 }
 
 #foreword-header h2 {
