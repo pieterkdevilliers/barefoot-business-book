@@ -101,7 +101,7 @@ body {
     float: right;
     text-align: left;
     width: 45%;
-    height: 600px;
+    height:fit-content;
     margin-top: 50px;
     margin-bottom: 10px;
     margin-right: 140px;
@@ -109,11 +109,7 @@ body {
     font-size: 125%;
     font-family: Lato, sans-serif;
     line-height: 25px;
-}
-
-#book-intro p {
-    margin: 5px 5px;
-    line-height: 25px;
+    border: 1px solid black;
 }
 
 #book-intro h2 {
@@ -121,7 +117,27 @@ body {
     padding-bottom: 15px;
 }
 
-#book-intro li {
+#book-intro p {
+    margin: 5px 5px;
+    line-height: 25px;
+}
+
+#book-intro-bullets {
+    height:fit-content;
+    float: right;
+    margin-right: 140px;
+    width: 45%;
+    padding: 10px;
+    font-size: 125%;
+    border: 1px solid black;   
+}
+
+#book-intro-bullets p {
+    margin: 5px 5px;
+    line-height: 25px;
+}
+
+#book-intro-bullets li {
     margin-left: 45px;
     line-height: 45px;
     font-size: 85%;
