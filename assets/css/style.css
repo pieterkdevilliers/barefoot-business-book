@@ -540,17 +540,14 @@ body {
         width: 230px;
         height: 230px;
     }
-
-    /* REMEMBER to add Bio Section */
 }
 
 /* for smaller screen size from 950px wide and down */
 @media screen and (max-width: 950px) {
     #book-cover img {
-        max-width: 450px;
-        margin-left: 50px;
+        max-width: 400px;
+        margin-left: 80px;
         margin-top: 50px;
-        border: 1px solid black;
     }
 
     #book-intro {
@@ -559,27 +556,74 @@ body {
         margin-right: 40px;
         padding: 10px;
         margin-top: 10px;
-        border: 1px solid black;
     }
 
-    #praise-quotes div {
-        width: 45%;
-        height: 100%;
-        margin-top: 5px;
-        margin-left: 5px;
-        padding: 15px;
+    #praise {
+        clear: both;
+        background-color: #04c1f4;
+        height: 320px;
     }
 
     #foreword-section {
         margin: 15px;
-        height: 1100px;
+        height: 1300px;
     }
     
     #foreword-left, #foreword-right {
         width: 40%;
     }
 
-  
+    #bio-section {
+        background-color: #04c1f4;
+        height: 800px;
+        padding: 15px;
+    }
 
-    /* REMEMBER to add Bio Section */
+    #bio-section > div {
+        height: 90%;
+        width: 48%;
+        margin: 5px;
+    }
+
+    #pieter-bio {
+        float: left;
+        width: 50%;
+    }
+
+    #pieter-bio h2 {
+        width: 400px;
+    }
+
+    #pieter-bio p {
+        margin-left: 15px;
+        width: 85%;
+    }
+
+    #pieter-photo   {
+        margin-top: 60px;
+    }
+
+    #form-header {
+        margin-left: 12.5%;
+    }
+
+    #contact-form {
+            margin-left: 12.5%;
+            padding-left: 0px;
+    }
+
+    #tks-article div {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    #podcast-covers img {
+        width: 220px;
+        height: 220px;
+    }
+    
+    #podcast-covers img:hover {
+        width: 230px;
+        height: 230px;
+    }
 }
