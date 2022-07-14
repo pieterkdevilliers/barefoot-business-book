@@ -579,6 +579,9 @@ body {
 
 /* for smaller screen size from 950px wide and down */
 @media screen and (max-width: 950px) {
+    #book-cover {
+        height: 500px;
+    }
     #book-cover img {
         max-width: 400px;
         margin-left: 80px;
@@ -587,10 +590,32 @@ body {
 
     #book-intro {
         max-width: 500px;
-        height: 850px;
+        height: 500px;
         margin-right: 40px;
         padding: 10px;
         margin-top: 10px;
+    }
+
+    #book-intro-bullets {
+        float: left;
+        max-width: 900px;
+        width: 900px;
+        padding: 10px;
+        margin-left: 40px;  
+    }
+    
+    #book-intro-bullets p {
+        margin: 5px 5px;
+        line-height: 25px;
+    }
+    
+    #book-intro-bullets li {
+        margin-left: 45px;
+        line-height: 45px;
+        font-size: 85%;
+        font-family: Lato, sans-serif;
+        font-weight: 400;
+        color: #4a4a4a;
     }
 
     #praise {
@@ -622,7 +647,7 @@ body {
 
     #pieter-bio {
         float: left;
-        width: 50%;
+        width: 49%;
     }
 
     #pieter-bio h2 {
