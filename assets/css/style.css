@@ -531,6 +531,16 @@ body {
         margin-right: 10%;
     }
 
+    #podcast-covers img {
+        width: 220px;
+        height: 220px;
+    }
+    
+    #podcast-covers img:hover {
+        width: 230px;
+        height: 230px;
+    }
+
     /* REMEMBER to add Bio Section */
 }
 
