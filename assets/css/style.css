@@ -87,7 +87,8 @@ body {
 #image-intro {
     clear: both;
     float: none;
-    margin: 0, auto;
+    margin-left: 5%;
+    margin-right: 5%;
     max-width: 90%;
     padding-top: 2px;
     height: 800px;
@@ -152,7 +153,8 @@ body {
 #praise {
     clear: both;
     float: none;
-    margin: 0, auto;
+    margin-left: 5%;
+    margin-right: 5%;
     max-width: 90%;
     background-color: #04c1f4;
     height: 300px;
@@ -197,7 +199,8 @@ body {
 #foreword-section {
     clear: both;
     float: none;
-    margin: 0, auto;
+    margin-left: 5%;
+    margin-right: 5%;
     max-width: 90%;
     height: 850px;
 }
@@ -252,7 +255,8 @@ body {
 #bio-section {
     clear: both;
     float: none;
-    margin: 0, auto;
+    margin-left: 5%;
+    margin-right: 5%;
     max-width: 90%;
     background-color: #04c1f4;
     height: 400px;
@@ -371,7 +375,8 @@ body {
 #footer {
     clear: both;
     float: none;
-    margin: 0, auto;
+    margin-left: 5%;
+    margin-right: 5%;
     max-width: 90%;
     height: 50px;
 }
@@ -388,7 +393,8 @@ body {
 #tks-article {
     clear: both;
     float: none;
-    margin: 0, auto;
+    margin-left: 5%;
+    margin-right: 5%;
     max-width: 90%;
     margin-bottom: 30px;
 }
@@ -441,7 +447,8 @@ body {
 #get-in-touch {
     clear: both;
     float: none;
-    margin: 0, auto;
+    margin-left: 5%;
+    margin-right: 5%;
     max-width: 90%;
     height: 1300px;
     padding: 10px;
