@@ -343,7 +343,7 @@ body {
 
 #footer {
     clear: both;
-    height: 300px;
+    height: 50px;
     margin: 15px;
 }
 
@@ -456,4 +456,115 @@ body {
 #podcast-covers img:hover {
     width: 260px;
     height: 260px;
+}
+
+/* media queries*/
+
+/* for larger to medium screen size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    #book-cover img {
+        max-width: 520px;
+        margin-left: 80px;
+        margin-top: 50px;
+    }
+
+    #book-intro {
+        max-width: 500px;
+        height: 850px;
+        margin-right: 40px;
+        padding: 10px;
+        margin-top: 10px;
+    }
+
+    #praise-quotes div {
+        width: 45%;
+        height: 100%;
+        margin-top: 5px;
+        margin-left: 5px;
+        padding: 15px;
+    }
+
+    #foreword-section {
+        margin: 15px;
+        height: 1100px;
+    }
+    
+    #foreword-left, #foreword-right {
+        width: 40%;
+    }
+
+    #bio-section {
+        background-color: #04c1f4;
+        height: 800px;
+        padding: 15px;
+    }
+
+    #pieter-bio {
+        float: left;
+        width: 50%;
+    }
+
+    #pieter-bio h2 {
+        width: 400px;
+    }
+
+    #pieter-bio p {
+        margin-left: 25px;
+        width: 85%;
+    }
+
+    #pieter-photo   {
+        margin-top: 60px;
+    }
+
+    #form-header {
+        margin-left: 12.5%;
+    }
+
+    #contact-form {
+            margin-left: 12.5%;
+            padding-left: 0px;
+    }
+
+    /* REMEMBER to add Bio Section */
+}
+
+/* for smaller screen size from 950px wide and down */
+@media screen and (max-width: 950px) {
+    #book-cover img {
+        max-width: 450px;
+        margin-left: 50px;
+        margin-top: 50px;
+        border: 1px solid black;
+    }
+
+    #book-intro {
+        max-width: 500px;
+        height: 850px;
+        margin-right: 40px;
+        padding: 10px;
+        margin-top: 10px;
+        border: 1px solid black;
+    }
+
+    #praise-quotes div {
+        width: 45%;
+        height: 100%;
+        margin-top: 5px;
+        margin-left: 5px;
+        padding: 15px;
+    }
+
+    #foreword-section {
+        margin: 15px;
+        height: 1100px;
+    }
+    
+    #foreword-left, #foreword-right {
+        width: 40%;
+    }
+
+  
+
+    /* REMEMBER to add Bio Section */
 }
