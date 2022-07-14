@@ -109,7 +109,6 @@ body {
     font-size: 125%;
     font-family: Lato, sans-serif;
     line-height: 25px;
-    border: 1px solid black;
 }
 
 #book-intro h2 {
@@ -128,8 +127,7 @@ body {
     margin-right: 140px;
     width: 45%;
     padding: 10px;
-    font-size: 125%;
-    border: 1px solid black;   
+    font-size: 125%;   
 }
 
 #book-intro-bullets p {
@@ -486,10 +484,31 @@ body {
 
     #book-intro {
         max-width: 500px;
-        height: 850px;
-        margin-right: 40px;
+        height: 400px;
+        margin-right: 80px;
         padding: 10px;
         margin-top: 10px;
+    }
+
+    #book-intro-bullets {
+        float: right;
+        max-width: 500px;
+        margin-right: 80px;
+        padding: 10px;  
+    }
+    
+    #book-intro-bullets p {
+        margin: 5px 5px;
+        line-height: 25px;
+    }
+    
+    #book-intro-bullets li {
+        margin-left: 45px;
+        line-height: 45px;
+        font-size: 85%;
+        font-family: Lato, sans-serif;
+        font-weight: 400;
+        color: #4a4a4a;
     }
 
     #praise-quotes div {
