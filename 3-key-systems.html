@@ -141,6 +141,7 @@
         </article>
     </section>
     <section id="bio-section">
+        <div id="bio-left">
         <div id="pieter-bio">
             <h2>Pieter K de Villiers</h2>
             <p>
@@ -153,26 +154,29 @@
         <div id="pieter-photo">
             <img src="assets/images/FullSizeRenderCropped.jpeg" alt="Photo of Pieter K de Villiers" style="float:left;">
         </div>
+        </div>
+        <div id="bio-right">
+        <div id="form-section">
+        <div id="form-header">
+            <p>If you'd like to get in touch, ask a question or simply start a converation, send a message using the form below.</p>
+        </div>   
+        <div id="contact-form">
+            <form method="POST" action="https://formdump.codeinstitute.net" target="_blank">
+                <label for="name">Your Name</label>
+                <input id="name" name="name" type="text" required class="form-input">
+                <label for="email">Your Email Address</label>
+                <input id="email" name="email" type="email" required class="form-input">
+                <label for="message">Your message</label>
+                <input id="message" name="message" type="text" required class="form-input">
+    
+                <input type="submit" value="Send your message" class="form-button">
+            </form>
+        </div>
+        </div>
+        </div> 
     </section>
 </body>
 <footer id="footer">
-    <div>
-        <h2>Contact Pieter</h2>
-    </div>
-    <div>
-        <p>If you'd like to get in touch, ask a question or simply start a converation, send a message using the form below.</p>
-    </div> 
-    <div id="footer-form">
-        <form method="POST" action="https://formdump.codeinstitute.net" target="_blank">
-            <label for="name">Your Name</label>
-            <input id="name" name="name" type="text" required class="form-input">
-            <label for="email">Your Email Address</label>
-            <input id="email" name="email" type="email" required class="form-input">
-            <label for="message">Your message</label>
-            <input id="message" name="message" type="text" required class="form-input">
-
-            <input type="submit" value="Send your message" class="footer-form-button">
-        </form>
-    </div>
+    <h3>Copyright: Pieter K de Villiers - 2022</h3>
 </footer>
 </html>
