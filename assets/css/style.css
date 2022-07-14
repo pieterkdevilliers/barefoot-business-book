@@ -85,8 +85,11 @@ body {
 /* 3D Book and Intro */
 
 #image-intro {
-    padding-top: 2px;
     clear: both;
+    float: none;
+    margin: 0, auto;
+    max-width: 90%;
+    padding-top: 2px;
     height: 800px;
 }
 
@@ -148,6 +151,9 @@ body {
 
 #praise {
     clear: both;
+    float: none;
+    margin: 0, auto;
+    max-width: 90%;
     background-color: #04c1f4;
     height: 300px;
 }
@@ -189,7 +195,10 @@ body {
 /* foreword */
 
 #foreword-section {
-    margin: 15px;
+    clear: both;
+    float: none;
+    margin: 0, auto;
+    max-width: 90%;
     height: 850px;
 }
 
@@ -240,18 +249,22 @@ body {
 
 /* Bio Section */
 
+#bio-section {
+    clear: both;
+    float: none;
+    margin: 0, auto;
+    max-width: 90%;
+    background-color: #04c1f4;
+    height: 400px;
+    padding: 15px;
+}
+
 #bio-left {
     float: left;
 }
 
 #bio-right {
     float: right;
-}
-
-#bio-section {
-    background-color: #04c1f4;
-    height: 400px;
-    padding: 15px;
 }
 
 #bio-section > div {
@@ -357,8 +370,10 @@ body {
 
 #footer {
     clear: both;
+    float: none;
+    margin: 0, auto;
+    max-width: 90%;
     height: 50px;
-    margin: 15px;
 }
 
 #footer h3 {
@@ -372,6 +387,9 @@ body {
 
 #tks-article {
     clear: both;
+    float: none;
+    margin: 0, auto;
+    max-width: 90%;
     margin-bottom: 30px;
 }
 
@@ -422,8 +440,10 @@ body {
 
 #get-in-touch {
     clear: both;
-    height: 1200px;
-    margin: 10px 10px;
+    float: none;
+    margin: 0, auto;
+    max-width: 90%;
+    height: 1300px;
     padding: 10px;
     font-size: 125%;
     font-family: Lato, sans-serif;
