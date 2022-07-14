@@ -93,7 +93,7 @@ body {
 #book-cover {
     float: left;
     margin: 10px;
-    width: 45%;
+    width: 40%;
     height: 95%;
 }
 
@@ -147,7 +147,7 @@ body {
 }
 
 #praise-quotes div {
-    width: 48%;
+    width: 45%;
     height: 100%;
     float: left;
     text-align: justified;
@@ -180,7 +180,7 @@ body {
 }
 
 #foreword-left, #foreword-right {
-    width: 45%;
+    width: 42%;
     height: 95%;
 }
 
@@ -299,7 +299,7 @@ body {
     padding-bottom: 15px;
     padding-left: 15px;
     font-size: 125%;
-    max-width: 400px;
+    max-width: 350px;
 }
 
 #contact-form {
@@ -307,7 +307,7 @@ body {
     border: 1px solid #04c1f4;
     background-color: #04c1f4;
     vertical-align: auto;
-    max-width: 400px;
+    max-width: 350px;
     height: 300px;
     padding-left: 35px;
     margin-top: 30px;
@@ -408,7 +408,7 @@ body {
 
 #get-in-touch {
     clear: both;
-    height: 1000px;
+    height: 1200px;
     margin: 10px 10px;
     padding: 10px;
     font-size: 125%;
@@ -524,6 +524,11 @@ body {
     #contact-form {
             margin-left: 12.5%;
             padding-left: 0px;
+    }
+
+    #tks-article div {
+        margin-left: 10%;
+        margin-right: 10%;
     }
 
     /* REMEMBER to add Bio Section */
