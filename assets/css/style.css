@@ -802,4 +802,18 @@ body {
         max-width: 95%;
         margin-left: 10px;
     }
+
+    #praise h2 {
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .quote-content {
+        margin-left: 30px;
+    }
+
+    .quote-author {
+        line-height: 20px;
+        margin-top: 15px;
+    }
 }
