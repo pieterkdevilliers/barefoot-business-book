@@ -761,14 +761,18 @@ body {
         margin-right: 5%;
     }
 
+    #get-in-touch {
+        height: 1000px;
+    }
+
     #podcast-covers img {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
     
     #podcast-covers img:hover {
-        width: 210px;
-        height: 210px;
+        width: 140px;
+        height: 140px;
     }
 }
 
