@@ -868,4 +868,15 @@ body {
         line-height: 35px;
     }
     
+    #book-cover {
+        float: none;
+        width: 100%;
+        margin: 0px;
+    }
+
+    #book-cover img {
+        float: none;
+        margin-right: 6%;
+    }
+
 }
