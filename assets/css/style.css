@@ -687,13 +687,18 @@ body {
 
     #bio-section {
         background-color: #04c1f4;
-        height: 800px;
+        height: 900px;
         padding: 15px;
+    }
+
+    #bio-section > div {
+        width: 90%;
+        margin: 5px auto;
     }
 
     #pieter-bio {
         float: left;
-        width: 50%;
+        width: 65%;
     }
 
     #pieter-bio h2 {
@@ -702,15 +707,53 @@ body {
 
     #pieter-bio p {
         margin-left: 25px;
-        width: 85%;
+        width: 95%;
     }
 
     #pieter-photo   {
         margin-top: 60px;
     }
 
+    #bio-left {
+        max-height: 350px;
+        float: none;
+        clear: both;
+        width: 95%;
+    }
+
+    #bio-right {
+        float: none;
+        clear: both;
+        width: 95%;
+    }
+
+    #form-section {
+        width: 100%;
+        height: 535px;
+        float: none;
+        clear: both;
+        padding-left: 0px;
+    }
+
+    #form-section div, #contact-form {
+        float: none;
+        clear: both;
+        padding-left: 0px;
+        max-width: 100%;
+    }
+
     #form-header {
-        margin-left: 15px;
+        margin-left: auto;
+    }
+
+    #form-header p {
+        padding: 0;
+        max-width: 100%;
+    }
+
+    #contact-form {
+        margin: 30px auto 0;
+        padding: 0;
     }
 
     #tks-article div {
