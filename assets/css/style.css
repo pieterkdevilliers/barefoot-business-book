@@ -99,7 +99,6 @@ body {
     margin: 10px;
     width: 40%;
     height: 95%;
-    border: 1px solid black;
 }
 
 #book-cover img {
@@ -209,7 +208,7 @@ body {
     margin-right: 5%;
     margin-top: 30px;
     max-width: 90%;
-    height: 850px;
+    height: fit-content;
 }
 
 #foreword-left, #foreword-right {
