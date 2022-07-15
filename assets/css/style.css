@@ -513,11 +513,17 @@ body {
 
 /* for larger to medium screen size from 1400px wide and down */
 @media screen and (max-width: 1399.98px) {
+
+    #book-cover {
+        float: left;
+        margin: 10px;
+        width: 40%;
+        height: 95%;
+    }
+
     #book-cover img {
-        max-width: 520px;
-        margin-left: 80px;
+        max-width: 325px;
         margin-top: 50px;
-        border: 1px solid black;
     }
 
     #book-intro {
@@ -526,7 +532,6 @@ body {
         margin-right: 80px;
         padding: 10px;
         margin-top: 10px;
-        border: 1px solid black;
     }
 
     #book-intro-bullets {
