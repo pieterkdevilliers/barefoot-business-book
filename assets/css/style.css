@@ -507,6 +507,7 @@ body {
         max-width: 520px;
         margin-left: 80px;
         margin-top: 50px;
+        border: 1px solid black;
     }
 
     #book-intro {
@@ -515,6 +516,7 @@ body {
         margin-right: 80px;
         padding: 10px;
         margin-top: 10px;
+        border: 1px solid black;
     }
 
     #book-intro-bullets {
