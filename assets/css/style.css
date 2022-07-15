@@ -664,6 +664,10 @@ body {
         color: #4a4a4a;
     }
 
+    #praise {
+        height: 400px;
+    }
+
     #praise-quotes div {
         width: 45%;
         height: 100%;
