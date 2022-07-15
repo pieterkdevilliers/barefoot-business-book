@@ -880,7 +880,7 @@ body {
         margin-right: 6%;
     }
 
-    #book-intro h2, #praise h2, #foreword-header h2, #pieter-bio h2, #tks-article h2 {
+    #book-intro h2, #praise h2, #foreword-header h2, #pieter-bio h2, #tks-article h2, #get-in-touch h2 {
         font-size: 100%;
     }
 
@@ -924,5 +924,18 @@ body {
 
     #bio-right {
         max-height: 610px;
+    }
+
+    #get-in-touch-cta {
+        max-width: 100%;
+    }
+
+    #get-in-touch-cta h2 {
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    #get-in-touch-cta p {
+        margin-left: 5px;
     }
 }
