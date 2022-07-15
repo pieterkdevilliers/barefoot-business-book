@@ -99,6 +99,12 @@ body {
     margin: 10px;
     width: 40%;
     height: 95%;
+    border: 1px solid black;
+}
+
+#book-cover img {
+    max-height: 95%;
+    padding-right: 100px;
 }
 
 #book-intro {
