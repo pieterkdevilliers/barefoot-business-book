@@ -880,7 +880,7 @@ body {
         margin-right: 6%;
     }
 
-    #book-intro h2, #praise h2 {
+    #book-intro h2, #praise h2, #foreword-header h2 {
         font-size: 100%;
     }
 
@@ -899,5 +899,9 @@ body {
 
     .quote-author {
         margin-left: 5px;
+    }
+
+    #foreword-section {
+        height: 2620px;
     }
 }
