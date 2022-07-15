@@ -606,13 +606,13 @@ body {
     }
 
     #podcast-covers img {
-        width: 220px;
-        height: 220px;
+        width: 200px;
+        height: 200px;
     }
     
     #podcast-covers img:hover {
-        width: 230px;
-        height: 230px;
+        width: 210px;
+        height: 210px;
     }
 }
 
