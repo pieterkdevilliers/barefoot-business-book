@@ -816,4 +816,37 @@ body {
         line-height: 20px;
         margin-top: 15px;
     }
+
+    #foreword-section {
+        clear: both;
+        float: none;
+        margin-left: 5%;
+        margin-right: 5%;
+        height: 1650px;
+        border: 1px solid black;
+    }
+
+    #foreword-header h2 {
+        text-align: center;
+    }
+
+    #foreword-left, #foreword-right {
+        float: none;
+        margin-left: 5%;
+        margin-right: 5%;
+        width: 90%;
+        border: 1px solid black;
+    }
+
+    #foreword-left {
+        height: 50%;
+    }
+
+    #foreword-right {
+        height: 45%;
+    }
+
+    #foreword-right p {
+        float: left;
+    }
 }
