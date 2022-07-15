@@ -823,7 +823,6 @@ body {
         margin-left: 5%;
         margin-right: 5%;
         height: 1650px;
-        border: 1px solid black;
     }
 
     #foreword-header h2 {
@@ -835,7 +834,6 @@ body {
         margin-left: 5%;
         margin-right: 5%;
         width: 90%;
-        border: 1px solid black;
     }
 
     #foreword-left {
@@ -849,4 +847,25 @@ body {
     #foreword-right p {
         float: left;
     }
+}
+
+/* for small screen size from 800px wide and down */
+@media screen and (max-width: 800px) {
+    #logo {
+        font-size: 200%;
+        margin-left: 5px;
+    }
+
+    #menu {
+        float: none;
+        margin-left: 5px;
+        font-size: 100%;
+    }
+
+    #menu li {
+        float: none;
+        text-align: center;
+        line-height: 35px;
+    }
+    
 }
