@@ -921,4 +921,8 @@ body {
     #pieter-photo {
         float: none;
     }
+
+    #bio-right {
+        max-height: 610px;
+    }
 }
