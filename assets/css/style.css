@@ -880,7 +880,24 @@ body {
         margin-right: 6%;
     }
 
-    #book-intro h2 {
+    #book-intro h2, #praise h2 {
         font-size: 100%;
+    }
+
+    #praise {
+        height: 600px;
+    }
+
+    #praise-quotes div {
+        width: 90%;
+    }
+
+    .quote-content {
+        margin-left: 5px;
+        width: 95%;
+    }
+
+    .quote-author {
+        margin-left: 5px;
     }
 }
