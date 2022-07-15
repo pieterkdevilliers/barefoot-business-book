@@ -501,8 +501,112 @@ body {
 
 /* media queries*/
 
+/* for larger to medium screen size from 1400px wide and down */
+@media screen and (max-width: 1399.98px) {
+    #book-cover img {
+        max-width: 520px;
+        margin-left: 80px;
+        margin-top: 50px;
+    }
+
+    #book-intro {
+        max-width: 500px;
+        height: 400px;
+        margin-right: 80px;
+        padding: 10px;
+        margin-top: 10px;
+    }
+
+    #book-intro-bullets {
+        float: right;
+        max-width: 500px;
+        margin-right: 80px;
+        padding: 10px;  
+    }
+    
+    #book-intro-bullets p {
+        margin: 5px 5px;
+        line-height: 25px;
+    }
+    
+    #book-intro-bullets li {
+        margin-left: 45px;
+        line-height: 45px;
+        font-size: 85%;
+        font-family: Lato, sans-serif;
+        font-weight: 400;
+        color: #4a4a4a;
+    }
+
+    #praise-quotes div {
+        width: 45%;
+        height: 100%;
+        margin-top: 5px;
+        margin-left: 5px;
+        padding: 15px;
+    }
+
+    #foreword-section {
+        margin: 15px;
+        height: 1100px;
+    }
+    
+    #foreword-left, #foreword-right {
+        width: 40%;
+    }
+
+    #bio-section {
+        background-color: #04c1f4;
+        height: 800px;
+        padding: 15px;
+    }
+
+    #pieter-bio {
+        float: left;
+        width: 50%;
+    }
+
+    #pieter-bio h2 {
+        width: 400px;
+    }
+
+    #pieter-bio p {
+        margin-left: 25px;
+        width: 85%;
+    }
+
+    #pieter-photo   {
+        margin-top: 60px;
+    }
+
+    #form-header {
+        margin-left: 12.5%;
+    }
+
+    #contact-form {
+            margin-left: 12.5%;
+            padding-left: 0px;
+    }
+
+    #tks-article div {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    #podcast-covers img {
+        width: 220px;
+        height: 220px;
+    }
+    
+    #podcast-covers img:hover {
+        width: 230px;
+        height: 230px;
+    }
+}
+
 /* for larger to medium screen size from 1200px wide and down */
-@media screen and (max-width: 1200px) {
+
+@media screen and (max-width: 1199.98px) {
     #book-cover img {
         max-width: 520px;
         margin-left: 80px;
