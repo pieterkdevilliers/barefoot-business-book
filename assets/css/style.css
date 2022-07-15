@@ -214,6 +214,7 @@ body {
 #foreword-left, #foreword-right {
     width: 42%;
     height: 95%;
+    margin-bottom: 3%;
 }
 
 #foreword-left {
