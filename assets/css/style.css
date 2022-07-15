@@ -880,7 +880,7 @@ body {
         margin-right: 6%;
     }
 
-    #book-intro h2, #praise h2, #foreword-header h2 {
+    #book-intro h2, #praise h2, #foreword-header h2, #pieter-bio h2 {
         font-size: 100%;
     }
 
@@ -903,5 +903,22 @@ body {
 
     #foreword-section {
         height: 2620px;
+    }
+
+    #bio-section {
+        height: 1500px;
+    }
+
+    #pieter-bio {
+        width: 95%;
+    }
+
+    #pieter-bio p {
+        margin-left: auto;
+        width: 100%;
+    }
+
+    #pieter-photo {
+        float: none;
     }
 }
