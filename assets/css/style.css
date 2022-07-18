@@ -396,6 +396,21 @@ body {
     text-align: center;
 }
 
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
 /* 3 Key Systems Page */
 
 /* 3 Key Systems Article Section */
@@ -405,7 +420,7 @@ body {
     float: none;
     margin-left: 5%;
     margin-right: 5%;
-    max-width: 90%;
+    max-width: 70%;
     margin-bottom: 30px;
 }
 
