@@ -1087,4 +1087,8 @@ body {
     #get-in-touch {
         height: 3550px;
     }
+
+    #podcast-covers img {
+        padding-left: 15px;
+    }
 }
