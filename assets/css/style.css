@@ -847,6 +847,10 @@ body {
     #foreword-right p {
         float: left;
     }
+
+    #podcast-covers {
+        margin: 7%;
+    }
 }
 
 /* for small screen size from 800px wide and down */
