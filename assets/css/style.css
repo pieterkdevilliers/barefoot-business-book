@@ -1016,7 +1016,7 @@ body {
     }
 
     #bio-section {
-        height: 1180px;
+        height: 1280px;
     }
 
     #pieter-bio {
@@ -1057,5 +1057,22 @@ body {
         width: 250px;
         height: 250px;
         padding-left: 75px;
+    }
+}
+
+/* for small screen size from 400px wide and down */
+@media screen and (max-width: 399.98px) {
+    #book-cover {
+        margin: 10%;
+    }
+
+    #book-cover img {
+        width: 280px;
+        margin-left: 10px;
+    }
+
+    #book-intro {
+        max-width: 300px;
+        max-height: 650px;
     }
 }
