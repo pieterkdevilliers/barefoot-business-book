@@ -995,7 +995,7 @@ body {
     }
 
     #praise {
-        max-height: 600px;
+        height: 500px;
     }
 
     #praise-quotes div {
