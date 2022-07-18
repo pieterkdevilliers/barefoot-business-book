@@ -956,6 +956,18 @@ body {
 
 /* for small screen size from 700px wide and down */
 @media screen and (max-width: 699.98px) {
+    #menu {
+        float: right;
+        margin-left: 5px;
+        font-size: 100%;
+    }
+
+    #menu li {
+        float: left;
+        text-align: center;
+        line-height: 35px;
+    }
+    
     #book-cover {
         max-width: 250px;
     }
