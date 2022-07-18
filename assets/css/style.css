@@ -954,6 +954,17 @@ body {
     }
 }
 
+/* for small screen size from 700px wide and down */
+@media screen and (max-width: 699.98px) {
+    #book-cover {
+        max-width: 250px;
+    }
+
+    #book-cover img {
+        max-width: 230px;
+    }
+}
+
 /* for small screen size from 600px wide and down */
 @media screen and (max-width: 599.98px) {
     #logo {
