@@ -1050,11 +1050,12 @@ body {
     }
 
     #get-in-touch {
-        height: 2050px;
+        height: 3400px;
     }
 
     #podcast-covers img {
         width: 250px;
         height: 250px;
+        padding-left: 75px;
     }
 }
