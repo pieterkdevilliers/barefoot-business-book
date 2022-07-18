@@ -963,7 +963,7 @@ body {
     }
 
     #menu li {
-        float: left;
+        float: right;
         text-align: center;
         line-height: 35px;
     }
