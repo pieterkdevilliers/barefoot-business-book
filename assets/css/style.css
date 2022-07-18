@@ -979,6 +979,11 @@ body {
     #bio-section {
         height: 1100px;
     }
+
+    #podcast-covers img {
+        width: 230px;
+        height: 230px;
+    }
 }
 
 /* for small screen size from 600px wide and down */
@@ -1117,5 +1122,16 @@ body {
 
     #podcast-covers img {
         padding-left: 15px;
+    }
+}
+
+/* for small screen size from 300px wide and down */
+@media screen and (max-width: 299.98px) {
+    #image-intro {
+        height: 600px;
+    }
+
+    #book-intro {
+        min-height: 1050px;
     }
 }
