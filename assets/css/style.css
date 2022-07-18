@@ -975,6 +975,10 @@ body {
     #book-cover img {
         max-width: 230px;
     }
+
+    #bio-section {
+        height: 1100px;
+    }
 }
 
 /* for small screen size from 600px wide and down */
