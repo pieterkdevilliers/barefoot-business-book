@@ -890,7 +890,7 @@ body {
     }
 
     #praise {
-        max-height: 600px;
+        height: 600px;
     }
 
     #praise-quotes div {
@@ -1133,5 +1133,13 @@ body {
 
     #book-intro {
         min-height: 1050px;
+    }
+
+    #praise {
+        height: 800px
+    }
+
+    #bio-section {
+        height: 1680px;
     }
 }
