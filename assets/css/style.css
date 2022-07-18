@@ -854,7 +854,7 @@ body {
 }
 
 /* for small screen size from 800px wide and down */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 799.98px) {
     #logo {
         font-size: 200%;
         margin-left: 5px;
@@ -883,6 +883,106 @@ body {
     #book-cover img {
         float: none;
         margin-right: 6%;
+    }
+
+    #book-intro h2, #praise h2, #foreword-header h2, #pieter-bio h2, #tks-article h2, #get-in-touch h2 {
+        font-size: 100%;
+    }
+
+    #praise {
+        max-height: 600px;
+    }
+
+    #praise-quotes div {
+        width: 90%;
+    }
+
+    .quote-content {
+        margin-left: 5px;
+        width: 95%;
+    }
+
+    .quote-author {
+        margin-left: 5px;
+    }
+
+    #foreword-section {
+        max-height: 2620px;
+    }
+
+    #bio-section {
+        height: 1060px;
+    }
+
+    #pieter-bio {
+        width: 95%;
+    }
+
+    #pieter-bio p {
+        margin-left: auto;
+        width: 100%;
+    }
+
+    #pieter-photo {
+        float: none;
+    }
+
+    #bio-right {
+        max-height: 425px;
+    }
+
+    #get-in-touch-cta {
+        max-width: 100%;
+    }
+
+    #get-in-touch-cta h2 {
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    #get-in-touch-cta p {
+        margin-left: 5px;
+    }
+
+    #get-in-touch {
+        height: 2050px;
+    }
+
+    #podcast-covers img {
+        width: 250px;
+        height: 250px;
+    }
+}
+
+/* for small screen size from 600px wide and down */
+@media screen and (max-width: 599.98px) {
+    #logo {
+        font-size: 200%;
+        margin-left: 5px;
+    }
+
+    #menu {
+        float: none;
+        margin-left: 5px;
+        font-size: 100%;
+    }
+
+    #menu li {
+        float: none;
+        text-align: center;
+        line-height: 35px;
+    }
+    
+    #book-cover {
+        float: left;
+        width: 83%;
+        margin: 0px;
+        height: 60%;
+        padding-top: 0px;
+    }
+
+    #book-cover img {
+        width: 420px;
     }
 
     #book-intro h2, #praise h2, #foreword-header h2, #pieter-bio h2, #tks-article h2, #get-in-touch h2 {
