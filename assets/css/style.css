@@ -584,7 +584,7 @@ body {
     }
 
     #pieter-bio h2 {
-        width: 400px;
+        max-width: 400px;
     }
 
     #pieter-bio p {
@@ -652,7 +652,7 @@ body {
     #book-intro-bullets p {
         margin: 5px 5px;
         line-height: 25px;
-        width: 900px;
+        max-width: 900px;
     }
     
     #book-intro-bullets li {
@@ -702,7 +702,7 @@ body {
     }
 
     #pieter-bio h2 {
-        width: 400px;
+        max-width: 400px;
     }
 
     #pieter-bio p {
