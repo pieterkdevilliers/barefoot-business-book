@@ -903,7 +903,7 @@ body {
     }
 
     #foreword-section {
-        height: 2620px;
+        max-height: 2620px;
     }
 
     #bio-section {
