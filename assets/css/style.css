@@ -869,10 +869,11 @@ body {
     }
     
     #book-cover {
-        float: none;
-        width: 100%;
+        float: left;
+        width: 40%;
         margin: 0px;
         height: 60%;
+        padding-top: 10%;
     }
 
     #book-cover img {
