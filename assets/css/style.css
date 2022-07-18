@@ -1075,4 +1075,8 @@ body {
         max-width: 300px;
         max-height: 650px;
     }
+
+    #praise {
+        height: 600px;
+    }
 }
