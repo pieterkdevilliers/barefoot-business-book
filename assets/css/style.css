@@ -475,7 +475,7 @@ body {
     margin-left: 5%;
     margin-right: 5%;
     max-width: 90%;
-    height: 1300px;
+    /* height: 1300px; */
     padding: 10px;
     font-size: 125%;
     font-family: Lato, sans-serif;
@@ -782,7 +782,7 @@ body {
     }
 
     #get-in-touch {
-        height: 1000px;
+        height: 800px;
     }
 
     #podcast-covers img {
