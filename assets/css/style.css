@@ -123,6 +123,7 @@ body {
 #book-intro h2 {
     font-family: Oswald, sans-serif;
     padding-bottom: 15px;
+    line-height: 45px;
 }
 
 #book-intro p {
