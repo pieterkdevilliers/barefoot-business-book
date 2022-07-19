@@ -420,7 +420,7 @@ body {
     float: none;
     margin-left: 5%;
     margin-right: 5%;
-    max-width: 70%;
+    max-width: 90%;
     margin-bottom: 30px;
 }
 
@@ -503,10 +503,14 @@ body {
     margin-bottom: 45px;
 }
 
+#get-in-touch div {
+    max-width: 90%;
+    margin: auto;
+}
+
 #get-in-touch p {
     line-height: 25px;
     margin-bottom: 10px;
-    margin-left: 85px;
 }
 
 /* Podcast Covers */
