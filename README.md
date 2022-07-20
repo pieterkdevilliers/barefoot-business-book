@@ -13,69 +13,66 @@ The image is from [Am I responsive?](http://ami.responsivedesign.is/)
 
 
 
-##General Website Description##
+This is a website designed as an additional resource, in support of the book, Barefoot Business, published in 2017. The website features 'book intro', 'praise for Barefoot Business', 'foreword to Barefoot Business', 'author's bio', 'get in touch contact form', '3 key systems concept overview' and 'additional resource - podcast interview episodes`.
+
+The aim of the website is to give the visitor an overview of the book and the key concept it is based on, with the options to discover more about the author via the podcast interview links, as well as the option to get in touch directly.
 
 
 
 The business goals of this website are:
 
-* ####
+* Showcase the 3 Key Systems concept covered in Barefoot Business
 
-* ####
+* Give the visitor the option to get in touch with the author
 
-* ####
-
-* ####
-
-* ####
+* Allow the visitor to get to know the author more, through access to several podcast interviews
 
 
 
 The customer visit this website to:
 
-* ####
+* Find out more about Barefoot Business
 
-* ####
+* Find out more about Pieter K de Viliers
 
-* ####
-
-* ####
+* Contact the author with questions, or the opportunity to work together
 
 
 
 # UX
 
-###UX Design Thoughts Here###
-
+A lot of the time, an author's books are hidden somewhere in a larger business or personal brand website. This can make it harder for the visitor to find information focussed on the book itself. This website is designed to focus attention on the book itself, and the topic it covers.
 
 
 ### Ideal client 
 
-The ideal client for this business is: 
+The ideal reader for Barefoot Business, and visitor to this site is: 
 
-* ####
+* Small to medium sized business owners
 
-* ####
+* Entrepreneurs
 
-* ####
+* Business or Team Managers
 
 
 
 The project help clients to: 
 
-* ####
+* Discover the 3 Key Systems concept
 
-* ####
+* Learn more about Barefoot Business
+
+* Get in touch with the author
 
 
 
 ### User stories: 
 
-1.	####
+1.	I've heard of Barefoot Business, but would like more information before investing time in reading the book.
 
-2.	####
+2.	I've heard of Barefoot Business, or even started reading it, but would like to learn more about the author.
 
-3.	####
+3.	I've heard of Barefoot Business, or am reading it, and would like to get in contact with the author.
 
 
 
@@ -83,88 +80,107 @@ The project help clients to:
 
 To achieve the strategic goals, I included the following features in the website: 
 
-* ####
+* Header containing a simple title logo and the navigation menu containing, Home, 3 Key Systems and Get In Touch.
 
-* ####
+* Home page with an introduction to the book.
 
-* ####
+* Some praise quotes from readers, to support the positioning of the book.
 
+* The foreword from the book, to draw the visitor into the book, even before they have a copy.
 
+* A brief bio of the author.
 
+* A contact form to send a message to the author.
 
-## Skeleton 
+* The 3 Key Systems page contains the same bio and contact form sections.
 
-The website consists of three pages; Home (introduces the designer and her approach to design),  Work (showcasing the designer’s completed and current projects), and Contact (including consultation stages and a consultation form). 
+* The 3 Key Systems page contains a lengthy article, outlining the basic premise of the book, aiming to not only interest the visitor in the book, but deliver real value, even if they never get a copy of the book itself.
 
+* The Get In Touch page contains the same bio and contact form sections as the other pages.
 
-
-### Wireframe Mockups: 
-
-* ####
-
-* ####
-
-* ####
+* In addition, the Get In Touch page also contains a collection of podcast interview episodes the author appeared on, for the visitor to explore.
 
 
+## Structure Overview 
 
-## Surface 
-
-##Design description here##
-
+The website consists of three pages; Home (introducing the book, introducing the author, providing some praise for the book and a form with which the visitor can contact the author),  3 Key Systems (an indepth article outlining the main concept of the book), and Get In Touch (including the contact form as well as links to podcast interviews). 
 
 
 # Features 
 
 ### Header
 
-##Header Description Here## 
+The header contains a simple text logo, as well as the navigation menu for the three pages of the website - Home, 3 Key Systems and Get In Touch. This header is consistant across all the pages of the site.
 
 
 
 ### Footer
 
-##Footer Description Here##
+The footer, used across all three pages of the site, contains a simple copyright notice and links to 4 social media platforms. At this stage the social media icons only link to the respective platform home pages, as the Barefoot Business profiles have not been completed on the respective sites (This will be updated as part of future work on the site).
 
 
 
 ### Home
 
-##Home Page Description Here##
+The home page features in image of the book itself. This ensures the subject of the website is clear to the visitor right away. With this image is a headline phrased as a question, to draw the visitor in. This leads to a short introduction to the book, as well as a list of key outcomes for the visitor, should they read the book.
+
+Next on the Home page is the praise for Barefoot Business and the foreword from the book itself. This aims to draw the visitor into the book, even before they have a copy in their hand. It also helps to build credability for the book and the author.
+
+At the bottom of the Home page is a short bio of the author, which includes professional as well as personal information, including a photo of the author, to build familiarity.
+
+In this section the visitor also has the option to contact the author via a webform.
 
 
 
 ### 3 Key Systems
 
-##3 Key Systems Description Here##
+The 3 Key Systems page is a long-form article focussing on the main concept the book is based on.
+
+The aim of the article is two-fold:
+
+1 - Allow the visitor to get a real grasp of what Barefoot Business has to offer, allowing them to make a decision about buying the book, with a real understanding of what they will be investing their time spent reading in.
+
+2 - Allow those visitors who are ready to take the next step, to simply skip reading the book and contact the authoer directly, already understanding the type of work the authoer does.
+
+The same bio section and contact form used on the Home page is repeated at the bottom of the 3 Key Systems page.
 
 
 
 ### Get In Touch  
 
-##Get In Touch Description Here##
+The Get In Touch page gives the visitor two options as next steps:
+
+1 - Contact the author with an interest of working together - this is done by completing the form at the bottom of the page.
+
+2 - Explore the collection of podcast interview episodes the authoer is featured on, with the aim of allowing the visitor to learn more about the author and his work, which can then lead to the visitor contacting the author directly.
 
 
 
 # Existing Features 
 
-* ####
+* Header Logo and Navigation - Exists on every page and allows the visitor to navigate between the pages of the site.
 
-* ####
+* Home Page - gives the visitor an introduction to Barefoot Business.
 
-* ####
+* 3 Key Systems Page - Provides the visitor with a more in-depth insight into Barefoot Business and the key concepts covered by the author.
+
+* Links to several podcast interview episodes - helping to build familiarity and credibility.
+
+* Contact Form - giving the visitor an easy option to contact the author directly.
+
+* Bio Section - a short introduction to the author.
 
 
 
 # Features to Implement in future
 
-Due to time restraints, I was unable to include the following features but hope to implement them in a future release:
+In the future, additional elements will be added to support Barefoot Business and the author even more:
 
-* ####
+* Add a full blog, allowing the author to add additional articles on the subject of business systems, processes and automation.
 
-* ####
+* Active Social Media links to the author's complete social media profiles.
 
-* ####
+* Video content of the author discussing the subject of Barefoot Business.
 
 
 
@@ -172,23 +188,23 @@ Due to time restraints, I was unable to include the following features but hope 
 
 This project uses HTML and CSS programming languages.
 
--	[Gitpod](https://gitpod.io/workspaces)- The developer used Gitpod to write the code to builds the website.
+-	[Gitpod](https://gitpod.io/workspaces)- Used to write the code and develop the site.
 
--	[GitHub](https://github.com/) - The project used GitHub to host my code that was created and pushed from GitPod.
+-	[GitHub](https://github.com/) - The repository is hosted on GitHub.
 
--   [FontAwesome](https://fontawesome.com/) - The projects uses a few icons from FontAwesome to make the websites less wordy and more visually appealing. 
+-   [FontAwesome](https://fontawesome.com/) - Social media icons in the footer uses FontAwesome.
 
--	[Google Fonts](https://fonts.google.com/) The project uses Google fonts to style the website fonts.
+-	[Google Fonts](https://fonts.google.com/) Google FOnts is used for the main fonts of the site.
 
--   [Tiny-PNG](https://tinypng.com/) I used tinypng for big images up to 5M needed to be compressed to improve the website's loading time. 
+-   [Tiny-PNG](https://tinypng.com/) TinyPNG was used to optimise the images for the site. 
 
--   [CompressJPEG](https://compressjpeg.com/) The big images bigger than 5M needed to be compressed to improve the website's loading time.
+-   [CloudConvert](https://cloudconvert.com/) Images were turned into WEBP format using CloudConvert.
 
--	[W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) The W3C Markup Validation Service checked the markup validity of Web documents in HTML.
+-	[W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) The W3C Markup Validation Service checked the HTML code of the site.
 
--	[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input) W3C CSS Validation Service was used to check the validity of my CSS in the project.
+-	[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input) W3C CSS Validation Service was used to check the CSS code of the project.
 
--	[WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)I used WAVE to make my site more accessible to individuals with disabilities by detecting any potential issues.
+-	[WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) WAVE was used to review the accessibility of the site.
 
 
 
@@ -196,70 +212,85 @@ This project uses HTML and CSS programming languages.
 
 ## Testing client stories from UX section of README.md
 
-1.	##User Story 1 Details Here##
+1. I've heard of Barefoot Business, but would like more information before investing time in reading the book.
+
+    - The introduction gives a quick intro and lists the outcomes the reader can expect from the book.
+
+    ##IntroImageHere##
+
+    - The foreword of the book, provides the visitor some real insight into who the book is for, and what they can expect from it.
+
+    ##ForewordImageHere##
+
+    - The 3 Key Systems article provides an in-depth look at the key concept of the book.
+
+    ##3KeySystemsImageHere##
+
+
+2.	I've heard of Barefoot Business, or even started reading it, but would like to learn more about the author.
+
+    - The brief bio provides a short intro to the author
+
+    ##BioSectionImageHere##
+
+    - The collection of podcast episode gives the visitor access to several hours of spoken content from the authoer, giving much more insight into his manner and personallity than written text can.
+
+    ##PodcastImagesHere##
 
 
 
-2.	##User Story 2 Details Here##
+3.	I've heard of Barefoot Business, or am reading it, and would like to get in contact with the author.
 
+    - The contact form on the site allows the visitor to contact the authoer directly.
 
-
-3.	##User Story 3 Details Here##
-
-
-4.	##User Story 4 Details Here##
+    ##FormImageHere##
 
 
 ## Code validation 
 
-##W3C Markup Validation##
-##W3C CSS validation##
+I used W3C Markup Validation to test the HTML code of the site.
+
+##W3CMarkupValidationResultImageHere##
+
+I used W3C CSS Validation to test the HTML code of the site.
+
+##W3CCSSValidationResultImageHere##
 
 
 
 ## Color Contrast 
 
-##Colour Contrast Testing Here##
+I used the WAVE Colour Contrast Accessibility Validator to check the contrast of the site.The initial color for the site matched the blue color used for the book cover, but this proved to be of insufficient contrast when used as a text colour or background colour.
 
+##FailedContrastResultImageHere##
 
+The colour was replaced with a darker, greyer hue, which provides a much better contrast and better accessibility.
+
+##PassedContrastResultImageHere##
 
 ## COMPATIBILITY
 
-To ensure a broad range of users can successfully view/use the site, I tested it across all major browsers in both desktop and mobile configuration.
+To ensure a broad range of users can successfully view/use the site, I tested it across several major browsers in both desktop and mobile configuration.
 
 
 
 * Chrome
 
-* Edge
-
 * Firefox
 
 * Safari
 
-* Internet Explorer
-
-
-
-## Issues
-
-
-
-# Further testing
-
-
 
 # Deployment 
 
-##GITHub Pages description##
-
+The porject is deployed on GitHub and GitHub Pages. I used GitPod for writing the code, git commands including deploying to GitHub.
 
 
 ### Run this project locally
 
 - Select the Repository from the GitHub Dashboard.
 
-- Click the green button labelled 'Code'.
+- Click the button labelled 'Code'.
 
 - Click 'Download ZIP'.
 
@@ -273,7 +304,7 @@ To ensure a broad range of users can successfully view/use the site, I tested it
 
 - Select the Repository from the GitHub Dashboard.
 
-- Click the green button labelled 'Code'.
+- Click the button labelled 'Code'.
 
 - To clone the repository using:
 
@@ -295,23 +326,29 @@ To ensure a broad range of users can successfully view/use the site, I tested it
 
 ## Content
 
-##Credits Here##
+The text and design layout of the site was created by Pieter K de Villiers
 
 
 
 ## Media 
 
-##Credits Here##
+The image of the book cover was originally designed by ReThink Press, as part of the book publishing process.
+
+The image of the authoer was taken by the author.
+
+All the respective podcast cover images were taken from their respective Apple Podcast Pages.
 
 
 
 ## Code 
 
-##Credits Here##
+Code for the Social Media icons were taken from the demo project: [Love Running](https://github.com/pieterkdevilliers/love-running)
 
 
 
 # Acknowledgement 
 
-##acknowledgements Here##
+* Thanks to my brother [Jean](https://github.com/PhantomPWR), for patiently answering my never ending questions as I learn.
+
+* Thanks to [Guido Cecilio Garcia Bernal](https://github.com/guidocecilio) for his enthusiastic support and mentorship.
 
