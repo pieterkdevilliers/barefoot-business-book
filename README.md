@@ -124,7 +124,7 @@ The footer, used across all three pages of the site, contains a simple copyright
 
 The home page features in image of the book itself. This ensures the subject of the website is clear to the visitor right away. With this image is a headline phrased as a question, to draw the visitor in. This leads to a short introduction to the book, as well as a list of key outcomes for the visitor, should they read the book.
 
-Next on the Home page is the praise for Barefoot Business and the foreword from the book itself. This aims to draw the visitor into the book, even before they have a copy in their hand. It also helps to build credability for the book and the author.
+Next on the Home page is the praise for Barefoot Business and the foreword from the book itself. This aims to draw the visitor into the book, even before they have a copy in their hand. It also helps to build credibility for the book and the author.
 
 At the bottom of the Home page is a short bio of the author, which includes professional as well as personal information, including a photo of the author, to build familiarity.
 
@@ -140,7 +140,7 @@ The aim of the article is two-fold:
 
 1 - Allow the visitor to get a real grasp of what Barefoot Business has to offer, allowing them to make a decision about buying the book, with a real understanding of what they will be investing their time spent reading in.
 
-2 - Allow those visitors who are ready to take the next step, to simply skip reading the book and contact the authoer directly, already understanding the type of work the authoer does.
+2 - Allow those visitors who are ready to take the next step, to simply skip reading the book and contact the author directly, already understanding the type of work the author does.
 
 The same bio section and contact form used on the Home page is repeated at the bottom of the 3 Key Systems page.
 
@@ -152,7 +152,7 @@ The Get In Touch page gives the visitor two options as next steps:
 
 1 - Contact the author with an interest of working together - this is done by completing the form at the bottom of the page.
 
-2 - Explore the collection of podcast interview episodes the authoer is featured on, with the aim of allowing the visitor to learn more about the author and his work, which can then lead to the visitor contacting the author directly.
+2 - Explore the collection of podcast interview episodes the author is featured on, with the aim of allowing the visitor to learn more about the author and his work, which can then lead to the visitor contacting the author directly.
 
 
 
@@ -233,7 +233,7 @@ This project uses HTML and CSS programming languages.
 
     ![Bio Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/bio-section.webp)
 
-    - The collection of podcast episode gives the visitor access to several hours of spoken content from the authoer, giving much more insight into his manner and personallity than written text can.
+    - The collection of podcast episode gives the visitor access to several hours of spoken content from the author, giving much more insight into his manner and personality than written text can.
 
     ![Podcast Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/podcast-section.webp)
 
@@ -241,7 +241,7 @@ This project uses HTML and CSS programming languages.
 
 3.	I've heard of Barefoot Business, or am reading it, and would like to get in contact with the author.
 
-    - The contact form on the site allows the visitor to contact the authoer directly.
+    - The contact form on the site allows the visitor to contact the author directly.
 
     ![Form Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/form-section.webp)
 
@@ -260,7 +260,7 @@ I used W3C CSS Validation to test the HTML code of the site.
 
 ## Color Contrast 
 
-I used the WAVE Colour Contrast Accessibility Validator to check the contrast of the site.The initial color for the site matched the blue color used for the book cover, but this proved to be of insufficient contrast when used as a text colour or background colour.
+I used the WAVE Colour Contrast Accessibility Validator to check the contrast of the site.The initial colour for the site matched the blue colour used for the book cover, but this proved to be of insufficient contrast when used as a text colour or background colour.
 
 ![Failed Contrast Test Result Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/contract-failing.webp)
 
@@ -283,7 +283,7 @@ To ensure a broad range of users can successfully view/use the site, I tested it
 
 # Deployment 
 
-The porject is deployed on GitHub and GitHub Pages. I used GitPod for writing the code, git commands including deploying to GitHub.
+The project is deployed on GitHub and GitHub Pages. I used GitPod for writing the code, git commands including deploying to GitHub.
 
 
 ### Run this project locally
@@ -334,7 +334,7 @@ The text and design layout of the site was created by Pieter K de Villiers
 
 The image of the book cover was originally designed by ReThink Press, as part of the book publishing process.
 
-The image of the authoer was taken by the author.
+The image of the author was taken by the author.
 
 All the respective podcast cover images were taken from their respective Apple Podcast Pages.
 
