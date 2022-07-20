@@ -7,7 +7,7 @@
 
 
 
-![Site Previews Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/8ff5f08822aa462b926c2c82f1acae5154ab13c5/assets/images/readme-images/responsive-preview.webp)  
+![Site Previews Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/responsive-preview.webp)  
 
 The image is from [Am I responsive?](http://ami.responsivedesign.is/)
 
