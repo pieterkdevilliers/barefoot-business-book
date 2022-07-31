@@ -529,6 +529,13 @@ body {
     height: 260px;
 }
 
+/* 404 Page */
+
+.page-not-found {
+    text-align: center;
+
+}
+
 /* media queries*/
 
 /* for larger to medium screen size from 1400px wide and down */
