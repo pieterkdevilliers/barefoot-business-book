@@ -533,7 +533,11 @@ body {
 
 .page-not-found {
     text-align: center;
+}
 
+.home-button {
+    height: 25px;
+    width: 250px;
 }
 
 /* media queries*/
