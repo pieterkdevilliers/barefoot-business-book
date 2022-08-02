@@ -1146,9 +1146,21 @@ body {
         margin: 10%;
     }
 
+    #image-intro {
+        clear: both;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        padding-top: 2px;
+        height: auto;
+    }
+
     #book-cover img {
         width: 280px;
-        margin-left: 10px;
+        margin: 0 auto;
+        display: block;
+        padding: 0;
     }
 
     #book-intro {
