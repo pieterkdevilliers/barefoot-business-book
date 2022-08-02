@@ -7,7 +7,7 @@
 
 
 
-![Site Previews Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/responsive-preview.webp)  
+![Site Previews Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/docs/images/readme-images/responsive-preview.webp)  
 
 The image is from [Am I responsive?](http://ami.responsivedesign.is/)
 
@@ -216,26 +216,26 @@ This project uses HTML and CSS programming languages.
 
     - The introduction gives a quick intro and lists the outcomes the reader can expect from the book.
 
-    ![Intro Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/intro-section.webp)  
+    ![Intro Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/docs/images/readme-images/intro-section.webp)  
 
     - The foreword of the book, provides the visitor some real insight into who the book is for, and what they can expect from it.
 
-    ![Foreword Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/foreword-section.webp)
+    ![Foreword Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/docs/images/readme-images/foreword-section.webp)
 
     - The 3 Key Systems article provides an in-depth look at the key concept of the book.
 
-    ![3 Key Systems Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/3-key-systems-section.webp)
+    ![3 Key Systems Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/docs/images/readme-images/3-key-systems-section.webp)
 
 
 2.	I've heard of Barefoot Business, or even started reading it, but would like to learn more about the author.
 
     - The brief bio provides a short intro to the author
 
-    ![Bio Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/bio-section.webp)
+    ![Bio Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/docs/readme-images/bio-section.webp)
 
     - The collection of podcast episode gives the visitor access to several hours of spoken content from the author, giving much more insight into his manner and personality than written text can.
 
-    ![Podcast Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/podcast-section.webp)
+    ![Podcast Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/docs/images/readme-images/podcast-section.webp)
 
 
 
@@ -243,18 +243,18 @@ This project uses HTML and CSS programming languages.
 
     - The contact form on the site allows the visitor to contact the author directly.
 
-    ![Form Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/form-section.webp)
+    ![Form Section Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/docs/images/readme-images/form-section.webp)
 
 
 ## Code validation 
 
 I used W3C Markup Validation to test the HTML code of the site.
 
-![W3C HTML Test Result Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/html-validation.webp)
+![W3C HTML Test Result Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/docs/images/readme-images/html-validation.webp)
 
 I used W3C CSS Validation to test the HTML code of the site.
 
-![CSS HTML Test Result Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/css-validations.webp)
+![CSS HTML Test Result Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/docs/images/readme-images/css-validations.webp)
 
 
 
@@ -262,11 +262,11 @@ I used W3C CSS Validation to test the HTML code of the site.
 
 I used the WAVE Colour Contrast Accessibility Validator to check the contrast of the site.The initial colour for the site matched the blue colour used for the book cover, but this proved to be of insufficient contrast when used as a text colour or background colour.
 
-![Failed Contrast Test Result Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/contract-failing.webp)
+![Failed Contrast Test Result Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/docs/images/readme-images/contract-failing.webp)
 
 The colour was replaced with a darker, greyer hue, which provides a much better contrast and better accessibility.
 
-![Passed Contrast Test Result Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/assets/images/readme-images/contrast-passing.webp)
+![Passed Contrast Test Result Image](https://raw.githubusercontent.com/pieterkdevilliers/barefoot-business-book/main/docs/images/readme-images/contrast-passing.webp)
 
 ## COMPATIBILITY
 
