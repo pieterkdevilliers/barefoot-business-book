@@ -962,6 +962,7 @@ body {
 
     #pieter-photo {
         float: none;
+        margin: 0 auto;
     }
 
     #bio-right {
