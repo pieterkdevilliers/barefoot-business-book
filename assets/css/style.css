@@ -1239,10 +1239,15 @@ body {
         height: 3550px;
         margin-left: 0;
         margin-right: 0;
+        max-width: 100%;
+    }
+
+    #get-in-touch div {
+        max-width: 100%;
     }
 
     #podcast-covers img {
-        padding-left: 15px;
+        padding: 0;
     }
 }
 
