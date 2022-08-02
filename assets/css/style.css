@@ -891,13 +891,16 @@ body {
 /* for small screen size from 800px wide and down */
 @media screen and (max-width: 799.98px) {
     #logo {
+        float: none;
+        clear: both;
         font-size: 200%;
-        margin-left: 5px;
+        margin: 0;
+        text-align: center;
     }
 
     #menu {
         float: none;
-        margin-left: 5px;
+        margin-left: 0px;
         font-size: 100%;
     }
 
@@ -905,6 +908,7 @@ body {
         float: none;
         text-align: center;
         line-height: 25px;
+        margin-left: 0px;
     }
     
     #book-cover {
@@ -993,7 +997,6 @@ body {
 @media screen and (max-width: 699.98px) {
     #menu {
         float: right;
-        margin-left: 5px;
         font-size: 100%;
     }
 
@@ -1025,7 +1028,7 @@ body {
 @media screen and (max-width: 599.98px) {
     #logo {
         font-size: 200%;
-        margin-left: 5px;
+
     }
 
     #menu {
