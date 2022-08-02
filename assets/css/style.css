@@ -319,6 +319,10 @@ body {
 
 /* Contact Form */
 
+#form-section {
+    padding-left: 15%;
+}
+
 #form-section div {
     float: left;
 }
@@ -327,7 +331,6 @@ body {
     float: left;
     margin-top: 30px;
     margin-left: 15px;
-    padding-left: 15%;
     max-width: 350px;
 }
 
@@ -336,7 +339,7 @@ body {
     text-align: center;
     font-family: Oswald, sans-serif;
     padding-bottom: 15px;
-    padding-left: 15px;
+    padding: 0;
     font-size: 125%;
     max-width: 350px;
 }
@@ -347,7 +350,6 @@ body {
     background-color: #035E77;
     max-width: 350px;
     height: 300px;
-    padding-left: 15%;
     margin-top: 30px;
     margin-left: 15px;
 }
@@ -355,7 +357,6 @@ body {
 #form-section label {
     color: white;
     font-weight: 400;
-    line-height: 45px;
     margin: 15px;
 }
 
@@ -364,9 +365,11 @@ body {
     height: 35px;
     width: 95%;
     margin-left: 2.5%;
+    margin-bottom: 15px;
+    margin-top: 3px;
 }
 
-.form-button {
+#form-section .form-button {
     color: #035E77;
     background-color: white;
     margin-top: 15px;
@@ -1134,7 +1137,9 @@ body {
     body {
         box-sizing: border-box;
     }
-
+    p {
+        font-size: initial;
+    }
     section * {
         float: none;
         clear: both;
@@ -1252,6 +1257,7 @@ body {
 
     #podcast-covers img {
         padding: 0;
+        margin-top: 10px;
     }
 }
 
