@@ -801,10 +801,6 @@ body {
         margin-right: 5%;
     }
 
-    #get-in-touch {
-        height: 800px;
-    }
-
     #podcast-covers img {
         width: 150px;
         height: 150px;
@@ -1122,7 +1118,7 @@ body {
     }
 
     #get-in-touch {
-        height: 3400px;
+        height: 3500px;
     }
 
     #podcast-covers img {
