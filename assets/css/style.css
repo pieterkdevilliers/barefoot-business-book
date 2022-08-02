@@ -1130,8 +1130,18 @@ body {
     }
 }
 
-/* for small screen size from 400px wide and down */
-@media screen and (max-width: 399.98px) {
+/* for small screen size from 414px wide and down */
+@media screen and (max-width: 413.98px) {
+    section * {
+        float: none;
+        clear: both;
+        width: 100%;
+        margin: 0;
+        max-width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
     #book-cover {
         margin: 10%;
     }
