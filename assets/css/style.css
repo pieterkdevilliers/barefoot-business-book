@@ -1246,6 +1246,10 @@ body {
         max-width: 100%;
     }
 
+    #podcast-covers {
+        text-align: center;
+    }
+
     #podcast-covers img {
         padding: 0;
     }
