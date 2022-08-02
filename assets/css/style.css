@@ -1223,8 +1223,22 @@ body {
         width: 100%;
     }
 
+    #tks-article div {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    #tks-article p {
+        font-weight: 300;
+        margin: 5px 0;
+        line-height: 25px;
+        letter-spacing: 1px;
+    }
+
     #get-in-touch {
         height: 3550px;
+        margin-left: 0;
+        margin-right: 0;
     }
 
     #podcast-covers img {
